@@ -71,5 +71,3 @@ Open `dashboard/Dubai_Real_Estate_Dashboard.html` directly in any browser — no
 *Built as part of Data Analyst portfolio — targeting UAE/Dubai opportunities*
 
 ---
-
-## 📁 Project Structure
